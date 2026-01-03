@@ -1,2 +1,2 @@
 print('config.js')
-print('version2')
+print('version3')
